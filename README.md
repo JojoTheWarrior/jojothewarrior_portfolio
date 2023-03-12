@@ -1,3 +1,7 @@
+# Joshua Wang's Portfolio!
+
+This is my portfolio for both personal and professional usages. It was originally created as part of my final project for ICS4UP, but I repurposed it as my personal website to create a root for all my projects and thoughts. Although it is not done yet, I will constantly be adding to this website as I continue to explore programming :D
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
